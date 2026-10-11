@@ -17,12 +17,12 @@ As well as solder kit
 
 ## 2. Structural & Enclosure Parts
 
-| Item | Qty | Material | Manufacturing Notes |
+| Item | Qty | Material | Notes |
 | :--- | :---: | :--- | :--- |
-| **Top Cover** | 1 | 3D Printed |(`Top.stl`)| *Doesn't need to be funded*
-| **Mounting column support** | 1 | 3D Printed | Decoupled support ring for top plate | *Doesn't need to be funded*
+| **Top Cover** | 1 | 3D Printed (`Top.stl`) | *Doesn't need to be funded*| 
+| **Mounting column support** | 1 | 3D Printed | Decoupled support ring for top plate *Doesn't need to be funded* |
 | **Acrylic window** | 1 | 3mm Laser-Cut Acrylic | Clear acrylic (`Acrylic_cutout.dxf`) |
-| **Bottom base** | 1 | 3D Printed | Solid base plate (`Bottom.stl`) |*Doesn't need to be funded*
+| **Bottom base** | 1 | 3D Printed (`Bottom.stl`) | *Doesn't need to be funded* |
 
 ---
 
@@ -39,6 +39,6 @@ As well as solder kit
 
 ## 4. Software & Firmware Assets
 
-* **CircuitPython: ** `.uf2` file for Seeed Studio XIAO.
+* **CircuitPython:** `.uf2` file for Seeed Studio XIAO.
 * **KMK Firmware:** `kmk/` Python library package.
 * **Scripts:** `boot.py` and `main.py`.
