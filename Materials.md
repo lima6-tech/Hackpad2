@@ -25,7 +25,7 @@
 ---
 
 ## 3. Fasteners & Hardware
-*This part is AI generated:*
+*I'm not sure if this is correct*
 
 | Item | Qty | Specifications |
 | :--- | :---: | :--- |
