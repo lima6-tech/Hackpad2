@@ -4,12 +4,12 @@
 
 | Item | Qty | Notes |
 | :--- | :---: | :--- |
-| **Microcontroller** | 1 | Seeed Studio XIAO (RP2040 or SAMD21 variant) |
+| **Microcontroller** | 1 | Seeed Studio XIAO |
 | **Key Switches** | 4 | Button switch keyboard: SW Cherry MX 1.00u PCB |
 | **Keycaps** | 4 | 1u MX-compatible keycaps |
 | **Rotary Encoder** | 1 | RotaryEncoder Alps EC11E-Switch Vertical H20mm)|
-| **Encoder Knob** | 1 | Compatible knob |
-| **Custom PCB** | 1 | 1.6mm FR4 PCB (fabricated from `Gerber.zip`) |
+| **Encoder Knob** | 1 | Any compatible knob |
+| **Custom PCB** | 1 | 1.6mm PCB (fabricated from `Gerber.zip`) |
 
 ---
 
@@ -25,18 +25,18 @@
 ---
 
 ## 3. Fasteners & Hardware
-*This part is AI generated:
+*This part is AI generated:*
 
 | Item | Qty | Specifications |
 | :--- | :---: | :--- |
-| **M3 Standoffs** | 4 | M3 female-to-female threaded standoffs (length depends on internal clearance) |
-| **M3 Screws** | 8 | M3 button-head or socket-head machine screws |
-| **Rubber Feet** | 4 | Self-adhesive silicone/rubber bumper pads (for bottom plate stability) |
+| **M3 Standoffs** | 5 | M3 female-to-female threaded standoffs (length depends on internal clearance) |
+| **M3 Screws** | 10 | M3 button-head or socket-head machine screws |
+| **Rubber Feet** | 5 | Self-adhesive silicone/rubber bumper pads (for bottom plate stability) |
 
 ---
 
 ## 4. Software & Firmware Assets
 
-* **CircuitPython Runtime:** `.uf2` bootloader file for Seeed Studio XIAO.
-* **KMK Firmware:** Core `kmk/` Python library package.
-* **Custom Scripts:** `boot.py` and `main.py`.
+* **CircuitPython: ** `.uf2` file for Seeed Studio XIAO.
+* **KMK Firmware:** `kmk/` Python library package.
+* **Scripts:** `boot.py` and `main.py`.
