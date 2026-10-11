@@ -11,16 +11,18 @@
 | **Encoder Knob** | 1 | Any compatible knob |
 | **Custom PCB** | 1 | 1.6mm PCB (fabricated from `Gerber.zip`) |
 
+As well as solder kit
+
 ---
 
 ## 2. Structural & Enclosure Parts
 
 | Item | Qty | Material | Manufacturing Notes |
 | :--- | :---: | :--- | :--- |
-| **Top Cover** | 1 | 3D Printed |(`Top.stl`)|
-| **Mounting column support** | 1 | 3D Printed | Decoupled support ring for top plate |
+| **Top Cover** | 1 | 3D Printed |(`Top.stl`)| *Doesn't need to be funded*
+| **Mounting column support** | 1 | 3D Printed | Decoupled support ring for top plate | *Doesn't need to be funded*
 | **Acrylic window** | 1 | 3mm Laser-Cut Acrylic | Clear acrylic (`Acrylic_cutout.dxf`) |
-| **Bottom base** | 1 | 3D Printed | Solid base plate (`Bottom.stl`) |
+| **Bottom base** | 1 | 3D Printed | Solid base plate (`Bottom.stl`) |*Doesn't need to be funded*
 
 ---
 
@@ -29,7 +31,7 @@
 
 | Item | Qty | Specifications |
 | :--- | :---: | :--- |
-| **M3 Standoffs** | 5 | M3 female-to-female threaded standoffs (length depends on internal clearance) |
+| **M3 Standoffs** | 5 | M3 standoffs |
 | **M3 Screws** | 10 | M3 button-head or socket-head machine screws |
 | **Rubber Feet** | 5 | Self-adhesive silicone/rubber bumper pads (for bottom plate stability) |
 
