@@ -11,6 +11,7 @@ Revised hackpad submission. A custom hackpad/macropad featuring 4 mechanical key
 * **Inputs:** 4 direct-wired MX mechanical key switches + 1 rotary encoder with integrated push switch.
 * **Firmware:** [KMK Firmware](https://github.com/KMKFW/kmk_firmware) on CircuitPython for drag-and-drop keymap edits.
 * **CAD:** Sandwich design consisting of a 3D-printed top cover, main base, column and a laser-cut acrylic "window" Assembled using M3 standoffs and machine screws.
+*Note: the "column" is not attached to the top because it is 3D printed - it will be attached separately*
 * **PCB:** Designed in Kicad:
 
 <img width="715" height="620" alt="Schematics" src="https://github.com/user-attachments/assets/4008b150-25a7-421e-9656-0d794e453803" />
@@ -21,3 +22,4 @@ Revised hackpad submission. A custom hackpad/macropad featuring 4 mechanical key
   * **Encoder:** Rotate for Previous/Next Track; Press for Play/Pause.
   * **SW1, SW2, SW3:** Undo (`Ctrl+Z`), Copy (`Ctrl+C`), Paste (`Ctrl+V`).
    I might later add multiple command layers
+
