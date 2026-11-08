@@ -3,6 +3,8 @@ Revised hackpad submission. A custom hackpad/macropad featuring 4 mechanical key
 
 <img width="787" height="529" alt="PCB" src="https://github.com/user-attachments/assets/5f50a298-0557-4be2-a293-214c8f5e0b44" />
 
+*Note that if these images are still broken, these are the same images as the ones in Assets*
+
 ---
 
 ## Features
