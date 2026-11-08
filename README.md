@@ -1,7 +1,7 @@
 # Hackpad2
 Revised hackpad submission. A custom hackpad/macropad featuring 4 mechanical key switches, a rotary encoder with a push-button function, an acrylic & 3D-printed sandwich enclosure, and KMK firmware running on CircuitPython.
 
-<img width="778" height="480" alt="CAD" src="https://github.com/user-attachments/assets/ed40c647-0c6a-4188-8079-2c18767688bd" />
+<img width="787" height="529" alt="PCB" src="https://github.com/user-attachments/assets/5f50a298-0557-4be2-a293-214c8f5e0b44" />
 
 ---
 
@@ -14,7 +14,10 @@ Revised hackpad submission. A custom hackpad/macropad featuring 4 mechanical key
 *Note: the "column" is not attached to the top because it is 3D printed - it will be attached separately*
 * **PCB:** Designed in Kicad:
 
-<img width="715" height="620" alt="Schematics" src="https://github.com/user-attachments/assets/4008b150-25a7-421e-9656-0d794e453803" />
+<img width="715" height="620" alt="Schematics" src="https://github.com/user-attachments/assets/1822cd59-eb57-40c8-b6ff-fd57d8b590d3" />
+
+<img width="778" height="480" alt="CAD" src="https://github.com/user-attachments/assets/e16f5cf3-c7a3-4e62-8648-0d7429a840af" />
+
 
 ---
 
